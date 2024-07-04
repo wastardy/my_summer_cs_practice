@@ -1,0 +1,4 @@
+Here is the code of some tasks from 
+the C# course (Microsoft freeCodeCamp), 
+I left certain challenges solutions 
+and interesting ideas from the course.
